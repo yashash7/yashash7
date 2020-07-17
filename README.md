@@ -1,4 +1,4 @@
-## Hola! Hi there 👋, I'm Yashashchandra, welcome to my Github Profile..
+## Hi there 👋, I'm Yashashchandra.
 
 - 🔭 I’m currently working on ... Web Dev
 - 🌱 I’m currently learning ... Github
