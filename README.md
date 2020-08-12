@@ -1,4 +1,4 @@
-![Sky](bg1.jpg)
+![Sky](/bg1.jpg)
 ## Hi there 👋, I'm Yashashchandra.
 
 ### Current 
