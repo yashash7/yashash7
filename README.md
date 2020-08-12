@@ -1,4 +1,4 @@
-![Bg Image](bg1.png)
+(bg1.jpg)
 ## Hi there 👋, I'm Yashashchandra.
 
 ### Current 
