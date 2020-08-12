@@ -1,4 +1,4 @@
-![Sky](/bg1.jpg)
+![Sky](https://github.com/[yashash7]/[yashash7]/blob/[master]/bg1.jpg?raw=true)
 ## Hi there 👋, I'm Yashashchandra.
 
 ### Current 
