@@ -2,17 +2,21 @@
 <h1 align="center">Yashashchandra Kollu</h1>
 <p align="center">
   <a href="https://yashash7.github.io/ycs/">
-   <img alt="My Webpage" title="My Webpage" width="22px" src="https://www.svgrepo.com/show/44757/website.svg" rel="noopener noreferrer" target="_blank"/></a>
+   <img alt="My Webpage" title="Visit My Webpage" width="22px" src="https://www.svgrepo.com/show/44757/website.svg" rel="noopener noreferrer" target="_blank"/></a>
  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yashashchandrakollu-aa56bb172/">
-   <img alt="Linkedin Profile-Yashashchandra" title="Linkedin Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" rel="noopener noreferrer" target="_blank" /></a>
+   <img alt="Linkedin Profile-Yashashchandra" title="Visit My Linkedin Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" rel="noopener noreferrer" target="_blank" /></a>
  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/yashash_25">
+  <a href="mailto:xcuk@protonmail.com">
+    <img alt=Mail Me" title="Send an email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" rel="noopener noreferrer" target="_blank" /></a>
+ &nbsp;&nbsp;
+ 
+  <!--<a href="https://www.codechef.com/users/yashash_25">
      <img alt="Codechef Profile" title="Codechef Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" rel="noopener noreferrer" target="_blank" /></a>
  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/yashashchandra25">
    <img alt="Hackerrank Profile" title="Hackerrank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" rel="noopener noreferrer" target="_blank" /></a>
- &nbsp;&nbsp;
+ &nbsp;&nbsp;-->
 </p>
  
  <br>
