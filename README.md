@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Computer/Technology,...
 - 📫 How to reach me: ... [Visit My Profile](https://yashash7.github.io/ycs) / [Mail Me](mailto:kolluyashashchandra@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... The introvert.
+- ⚡ Fun fact: ... I am "The Introvert".
 
 
 ### About Me
