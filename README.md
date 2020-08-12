@@ -1,4 +1,4 @@
----?image=bg1.jpg
+
 ## Hi there 👋, I'm Yashashchandra.
 
 ### Current 
