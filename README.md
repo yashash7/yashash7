@@ -1,9 +1,9 @@
 <h1 align="center">Yashashchandra Kollu</h1>
 <p align="center">
-  <a href="https://yashash7.github.io/ycs/">
-   <img alt="My Webpage" title="Visit My Webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitea.svg" rel="noopener noreferrer" target="_blank"/></a>
+  <a href="https://yashash7.github.io/ycs/" rel="noopener noreferrer" target="_blank">
+   <img alt="My Webpage" title="Visit My Webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitea.svg" /></a>
  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yashashchandrakollu-aa56bb172/">
+  <a href="https://www.linkedin.com/in/yashashchandrakollu-aa56bb172/" rel="noopener noreferrer" target="_blank">
    <img alt="Linkedin Profile-Yashashchandra" title="Visit My Linkedin Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" rel="noopener noreferrer" target="_blank" /></a>
  &nbsp;&nbsp; 
 </p>
@@ -15,9 +15,9 @@
 👯 I’m looking to collaborate on Web Design & Development.<br><br>
 🤔 I’m looking for help to learn - Cybersecurity and Ethical Hacking.<br><br>
 🤝 How To Reach Me &nbsp; -- &nbsp;
-    📧 <a href="mailto:xcuk@protonmail.com"> Mail Me </a> &nbsp; | &nbsp;
-    🌐 <a href="https://yashash7.github.io/ycs/"> Visit My Site </a> &nbsp; | &nbsp;
-    📝 <a href="https://t.me/Yashashchandra" title=" Start a Chat on Telegram "> Telegram Me! </a>
+    📧 <a href="mailto:xcuk@protonmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
+    🌐 <a href="https://yashash7.github.io/ycs/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> &nbsp; | &nbsp;
+    📝 <a href="https://t.me/Yashashchandra" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>
 <br>
 
 
