@@ -43,6 +43,6 @@
        
 </details>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact" align="left"  />
-<img src="https://github-readme-stats.vercel.app/api?username=yashash7&show_icons=true&hide=contribs,prs" align="right" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact" align="left"  />-->
+<img src="https://github-readme-stats.vercel.app/api?username=yashash7&show_icons=true&hide=contribs,prs" align="center" />
 
