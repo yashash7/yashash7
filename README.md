@@ -8,7 +8,8 @@
  &nbsp;&nbsp; 
 </p>
 <br>
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact" align="right"  />
+
 🔭 I’m currently working on - Web Design.<br><br>
 🌱 I’m currently learning  Cyber security.<br><br>
 👯 I’m looking to collaborate on Web Design & Development.<br><br>
@@ -43,6 +44,8 @@
        
 </details>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashash7&show_icons=true&hide=contribs,prs" />
+  </p>
+  
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact" align="left"  />-->
-<img src="https://github-readme-stats.vercel.app/api?username=yashash7&show_icons=true&hide=contribs,prs" align="center" />
-
