@@ -8,7 +8,7 @@
  &nbsp;&nbsp; 
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=full" align="right"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact" align="right"  />
 
 🔭 I’m currently working on - Web Design.<br><br>
 🌱 I’m currently learning  Cyber security.<br><br>
