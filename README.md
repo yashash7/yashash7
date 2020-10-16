@@ -11,7 +11,7 @@
  &nbsp;&nbsp; 
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact" align="right"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact&langs_count=7" align="right"  />
 
 🔭 I’m currently working on - Web Design.<br><br>
 🌱 I’m currently learning  Cyber security.<br><br>
@@ -33,9 +33,9 @@
   ### My Work
   Till now I have been working on Web Design/Dev, I was learning the components of web design like HTML, CSS, JS, etc.. I did a few things while I was learning web design, you can see them below. If you like to spare a minute, I request you to visit my sites and suggest me for further development. <br>
   
-  - [My blog](https://yashash7.github.io/blog1/)
-  - [My Profile](https://yashash7.github.io/ycs/)
-  - [Browser Start Page](https://yashash7.github.io/start/)
+  - [My blog](https://www.yashashchandra.me/blog1/)
+  - [My Profile](https://www.yashashchandra.me/)
+  - [Browser Start Page](https://www.yashashchandra.me/start/)
   
   ### My Favourite Passtime
    - Learning New Things 🧾<br>
