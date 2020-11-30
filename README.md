@@ -35,7 +35,7 @@
   
   - [My blog](https://www.yashashchandra.me/blog1/)
   - [My Profile](https://www.yashashchandra.me/)
-  - [Browser Start Page](https://www.yashashchandra.me/start/)
+  - [Browser Start Page](https://project-start.yashashchandra.me/)
   
   ### My Favourite Passtime
    - Learning New Things 🧾<br>
