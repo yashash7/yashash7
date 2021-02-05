@@ -19,8 +19,8 @@
 🤔 I’m looking for help to learn - Cybersecurity and Ethical Hacking.<br><br>
 🤝 How To Reach Me &nbsp; -- &nbsp;
     📧 <a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
-    🌐 <a href="https://www.yashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> &nbsp; | &nbsp;
-    📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>
+    🌐 <a href="https://www.yashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
+    📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>-->
 <br>
 
 
