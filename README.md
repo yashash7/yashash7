@@ -1,7 +1,7 @@
 <h1 align="center">Yashashchandra Kollu</h1>
 <p align="center">
-  <a href="https://www.instagram.com/kyck25/" rel="noopener noreferrer" target="_blank">
-   <img alt="Instagram Profile" title="Follow me on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <!--<a href="https://www.instagram.com/kyck25/" rel="noopener noreferrer" target="_blank">
+   <img alt="Instagram Profile" title="Follow me on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>-->
  &nbsp;&nbsp;
   <a href="https://www.yashashchandra.me/" rel="noopener noreferrer" target="_blank">
    <img alt="My Webpage" title="Visit My Webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
@@ -18,7 +18,8 @@
 👯 I’m looking to collaborate on Web Design & Development.<br><br>
 🤔 I’m looking for help to learn - Cybersecurity and Ethical Hacking.<br><br>
 🤝 How To Reach Me &nbsp; -- &nbsp;
-    📧 <a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
+    📧 [Mail Me](mailto:kolluyashashchandra@gmail.com){target="_blank"}
+    <!--<a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a>--> &nbsp; | &nbsp;
     🌐 <a href="https://www.yashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
     📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>-->
 <br>
