@@ -12,7 +12,7 @@
 </p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashashck&langs_count=10&layout=compact" align="right"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&langs_count=10&layout=compact" align="right"  />
 
 
 🔭 I’m currently working on - Web Design.<br><br>
