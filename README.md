@@ -11,9 +11,9 @@
  &nbsp;&nbsp; 
 </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact)](https://github.com/yashash7/github-readme-stats)
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashash7&layout=compact&langs_count=7" align="right"  />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashashck&langs_count=10&layout=compact" align="right"  />
+
 
 🔭 I’m currently working on - Web Design.<br><br>
 🌱 I’m currently learning  Cyber security.<br><br>
