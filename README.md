@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashashchandra Kollu</h1>
 <h3 align="center">A Curious Programmer</h3>
-<p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=yashash7&theme=nord&row=1&column=7" /> </p>
+
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashash7&" alt="yashash7" />
 
@@ -17,7 +17,7 @@
 🌐 <a href="https://www.yashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
 📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>-->
 
-<details> 
+* <details> 
   <summary> <strong> ABOUT ME </strong> </summary>
     
   ### Bio
@@ -34,7 +34,7 @@
        
 </details>
 
-<details>
+* <details>
   <summary> <strong> MY WORK </strong> </summary>
   
   ### My Work
@@ -47,4 +47,4 @@
   
   </details>
   
-  
+&nbsp;<p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=yashash7&theme=nord&row=1&column=7" /> </p>
