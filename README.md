@@ -21,7 +21,7 @@
   <summary> <strong> ABOUT ME </strong> </summary>
     
   ### Bio
-  I am a Python programmer, and a web development enthusiast currently learning Angular Framework (Any Suggestions/advises) . I was also interested in Cybersecurity, Machine Learning, Data Science and Artificial intelligence. 
+  I am a Python programmer, and a web development enthusiast currently learning Angular Framework (glad to have any suggestions/advises) . I was also interested in Cybersecurity, Machine Learning, Data Science and Artificial intelligence. 
   
   
   ### My Favourite Passtime
