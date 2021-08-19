@@ -2,7 +2,7 @@
 <h3 align="center">A Curious Programmer</h3>
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashash7&" alt="yashash7" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashash7" alt="yashash7" />
 
 - 🔭 I’m currently working on **Web Development**
 
