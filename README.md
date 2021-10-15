@@ -42,7 +42,7 @@
   Till now I have been working on Web Design/Dev, I was learning the components of web design like HTML, CSS, JS, etc.. I did a few things while I was learning web design, you can see them below. If you like to spare a minute, I request you to visit my sites and suggest me for further development. <br>
   
   - [My blog](https://blog.kyashashchandra.me)
-  - [My Profile](https://www.kkyashashchandra.me)
+  - [My Profile](https://www.kyashashchandra.me)
   - [Browser Start Page](https://project-start.kyashashchandra.me)
 
   
