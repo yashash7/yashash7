@@ -15,7 +15,7 @@
 
 - 📞 How To Reach Me &nbsp;
 📧 <a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
-🌐 <a href="https://www.yashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
+🌐 <a href="https://www.kyashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
 📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>-->
 
 * <details> 
@@ -41,10 +41,10 @@
   ### My Work
   Till now I have been working on Web Design/Dev, I was learning the components of web design like HTML, CSS, JS, etc.. I did a few things while I was learning web design, you can see them below. If you like to spare a minute, I request you to visit my sites and suggest me for further development. <br>
   
-  - [My blog](https://www.yashashchandra.me/blog1)
-  - [My Profile](https://www.yashashchandra.me)
-  - [Browser Start Page](https://project-start.yashashchandra.me)
-  - [A sample PHP Application to learn PHP](https://app.yashashchandra.me)
+  - [My blog](https://blog.kyashashchandra.me)
+  - [My Profile](https://www.kkyashashchandra.me)
+  - [Browser Start Page](https://project-start.kyashashchandra.me)
+
   
   </details>
   
