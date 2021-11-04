@@ -5,13 +5,13 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashash7" alt="yashash7" />
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Cloud Computing, pplication Development**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AWS, Java**
 
-- 👯 I’m looking to collaborate on **Web Development MEAN Stack**
+- 👯 I’m looking to collaborate on **Web Development MEAN/MERN Stack**
 
-- 🤝 I’m looking for help with **Cybersecurity**
+- 🤝 I’m looking for help with **NoSQL Databases**
 
 - 📞 How To Reach Me &nbsp;
 📧 <a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
@@ -22,7 +22,7 @@
   <summary> <strong> ABOUT ME </strong> </summary>
     
   ### Bio
-  I am a Python programmer, and a web development enthusiast currently learning Angular Framework (glad to have any suggestions/advises) . I was also interested in Cybersecurity, Machine Learning, Data Science and Artificial intelligence. 
+  I am a curious Python programmer, and a web development enthusiast currently looking to learn Angular Framework (glad to have any suggestions/advises) . I was also interested in Application Development and Deployment, Cybersecurity, Machine Learning, Data Science and Artificial intelligence. 
   
   
   ### My Favourite Passtime
