@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Cloud Computing, pplication Development**
 
-- 🌱 I’m currently learning **AWS, Java**
+- 🌱 I’m currently learning **AWS & DevOps**
 
-- 👯 I’m looking to collaborate on **Web Development MEAN/MERN Stack**
+- 👯 I’m looking to collaborate on **Web Development Full Stack**
 
 - 🤝 I’m looking for help with **NoSQL Databases**
 
