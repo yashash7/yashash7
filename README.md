@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashash7" alt="yashash7" />
 
-- 🔭 I’m currently working on **Cloud Computing, pplication Development**
+- 🔭 I’m currently working on **Cloud Computing, Application Development**
 
 - 🌱 I’m currently learning **AWS & DevOps**
 
