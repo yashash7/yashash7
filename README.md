@@ -5,11 +5,11 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashash7" alt="yashash7" />
 
-- 🔭 I’m currently working on **Cloud Computing, Application Development**
+- 🔭 I’m currently working on **Application Development**
 
-- 🌱 I’m currently learning **AWS & DevOps**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Web Development Full Stack**
+- 👯 I’m looking to collaborate on **Full Stack Application Development**
 
 - 🤝 I’m looking for help with **NoSQL Databases**
 
@@ -22,7 +22,7 @@
   <summary> <strong> ABOUT ME </strong> </summary>
     
   ### Bio
-  I am a curious Python programmer, and a web development enthusiast currently looking to learn Angular Framework (glad to have any suggestions/advises) . I was also interested in Application Development and Deployment, Cybersecurity, Machine Learning, Data Science and Artificial intelligence. 
+  I am a curious Python programmer, and an application developer, currently looking to learn Data Science (glad to have any suggestions/advises) . I am also interested in Cybersecurity, Machine Learning, Artificial intelligence, and other technologies. 
   
   
   ### My Favourite Passtime
@@ -39,7 +39,7 @@
   <summary> <strong> MY WORK </strong> </summary>
   
   ### My Personal Projects
-  Till now I have been working on Web Design/Dev, I was learning the components of web design like HTML, CSS, JS, etc.. I did a few things while I was learning web design, you can see them below. If you like to spare a minute, I request you to visit my sites and suggest me for further development. <br>
+  I have worked on Web Design/Dev, while I was learning the components of web design like HTML, CSS, JS, etc.., I did a few things, you can see them below.<br>
   
   - [My blog](https://tccblog.svarpy.in/)
   - [My Profile](https://yck.svarpy.in/)
