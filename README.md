@@ -15,7 +15,7 @@
 
 - 📞 How To Reach Me &nbsp;
 📧 <a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
-🌐 <a href="https://www.kyashashchandra.me/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
+🌐 <a href="https://yck.svarpy.in/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
 📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>-->
 
 * <details> 
@@ -38,12 +38,12 @@
 * <details>
   <summary> <strong> MY WORK </strong> </summary>
   
-  ### My Work
+  ### My Personal Projects
   Till now I have been working on Web Design/Dev, I was learning the components of web design like HTML, CSS, JS, etc.. I did a few things while I was learning web design, you can see them below. If you like to spare a minute, I request you to visit my sites and suggest me for further development. <br>
   
-  - [My blog](https://blog.kyashashchandra.me)
-  - [My Profile](https://www.kyashashchandra.me)
-  - [Browser Start Page](https://project-start.kyashashchandra.me)
+  - [My blog](https://tccblog.svarpy.in/)
+  - [My Profile](https://yck.svarpy.in/)
+  - [My Browser Start Page](https://yashash7.github.io/project-start/)
 
   
   </details>
