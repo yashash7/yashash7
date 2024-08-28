@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Yashashchandra Kollu</h1>
 <h3 align="center">A Curious Programmer</h3>
 
@@ -15,8 +16,7 @@
 
 - 📞 How To Reach Me &nbsp;
 📧 <a href="mailto:kolluyashashchandra@gmail.com" rel="noopener noreferrer" target="_blank"> Mail Me </a> &nbsp; | &nbsp;
-🌐 <a href="https://yck.svarpy.in/" rel="noopener noreferrer" target="_blank"> Visit My Site </a> <!-- &nbsp; | &nbsp;
-📝 <a href="https://t.me/yck9247" title=" Start a Chat on Telegram " rel="noopener noreferrer" target="_blank"> Telegram Me! </a>-->
+🌐 <a href="https://yck.svarpy.in/" rel="noopener noreferrer" target="_blank"> Visit My Site </a>
 
 * <details> 
   <summary> <strong> ABOUT ME </strong> </summary>
@@ -49,3 +49,4 @@
   </details>
   
 <p align='center'> <img src="https://github-profile-trophy.vercel.app/?username=yashash7&theme=nord&row=1&column=7" /> </p>
+-->
